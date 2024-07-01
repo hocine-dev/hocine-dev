@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭Hello,My Name Is Hocine Dev, I Am A Full Stack Web Developer With Over 6 Years Of Experience In Web Development<br>
-🔭 I'm currently working as a freelancer <br>👯 I'm looking for a job on IT company<br>🤝I'm looking for help with creating websites <br>🌱I'm currently learning NodeJS<br>💬 Ask me about web development <br>⚡Some times I'm coding 14 hours a day !<br>
+🔭Hello,My Name Is Hocine Dev, I Am A Full Stack Web Developer With Over 7 Years Of Experience In Web Development<br>
+🔭 I'm currently working as a freelancer <br>👯 I'm looking for a job on IT company<br>🤝I can help with creating awesome websites and web apps <br>💬 Ask me about web development <br>⚡Some times I'm coding 14 hours a day !<br>
 
 
 ## 🌐 Socials:
@@ -15,15 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hocine-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=hocine_dev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hocine-dev&icon=0&color=0)](https://visitcount.itsvg.in)
