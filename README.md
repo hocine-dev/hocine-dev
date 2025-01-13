@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭Hello,My Name Is Hocine Dev, I Am A Full Stack Web Developer With Over 7 Years Of Experience In Web Development<br>
-🔭 I'm currently working as a freelancer <br>👯 I'm looking for a job on IT company<br>🤝I can help with creating awesome websites and web apps <br>💬 Ask me about web development <br>⚡Some times I'm coding 14 hours a day !<br>
+Bonjour, je m'appelle Hocine, développeur web full-stack basé au Havre, en France, avec plus de 7 ans d'expérience dans le développement de sites web. Doté d'un large éventail de compétences techniques, je vous aide à concevoir un site web professionnel qui propulse votre présence dans le monde numérique. N'hésitez pas à me contacter pour discuter de votre projet et transformer vos idées en réalité digitale.
 
 
 ## 🌐 Socials:
