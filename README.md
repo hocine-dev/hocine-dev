@@ -1,7 +1,9 @@
 # 💫 À propos de moi :
-Bonjour, je m'appelle Hocine, développeur web full-stack basé en France.  
-Actuellement, je suis étudiant en Licence 3 Informatique à l'Université du Havre. Passionné par le développement web et les technologies numériques, je conçois des sites professionnels et performants pour propulser votre présence en ligne.  
-N'hésitez pas à me contacter pour discuter de votre projet et transformer vos idées en réalité digitale.  
+Bonjour, je m'appelle Hocine, développeur web full-stack basé en France.
+Je prépare actuellement un Master en Informatique à l’Université du Havre, après y avoir obtenu ma Licence dans la même spécialité. En parallèle de mes études, je travaille sur différents projets en freelance, ce qui me permet de renforcer mes compétences techniques et de répondre concrètement aux besoins des professionnels.
+Passionné par le développement web et les technologies numériques, je conçois des sites modernes, performants et adaptés aux exigences du marché.
+
+N'hésitez pas à me contacter pour discuter de votre projet et transformer vos idées en solutions digitales concrètes. 
 
 ## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hocinedev)
